@@ -1,1 +1,49 @@
+body {
+  border-radius: 5px;
+  /* margin: 25px; */
+  background-color:#3E7CB1;
+}
 
+.container{
+  display: flex;
+  justify-content: center;
+}
+.headers{
+  text-decoration: underline;
+  background-color: #DBE4EE;
+  color: #054A91;
+  padding: 0.3em;
+  text-align: center;
+  font-size: 45px; 
+  margin: 25px;
+  font-family: 'Unica One', cursive;
+}
+.mission{
+  text-align: center;
+  background-color: #81A4CD;
+  color: #DBE4EE;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  padding: 1em; 
+  line-height: 1.5em; 
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.navbar-brand{
+  font-family: 'Staatliches', cursive;
+  font-size: 45px;
+  text-decoration: underline;
+}
+.nav-link{
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+}
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
