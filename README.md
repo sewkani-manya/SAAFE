@@ -1,6 +1,6 @@
 # SAAFE
 ## Intro
-SAAFE (Sexual Assault Awareness For Everyone) aims to provide resources for identifying, preventing and responding to sexual assault through collaborating and sharing
+SAAFE (Sexual Assault Awareness For Everyone) aims to provide resources for identifying, preventing and responding to sexual assault through collaborating and sharing.
 This website was originally created in 2021 during a coding camp but has been recently added to my replit. 
 ## Features of the website 
 - Petitions page
