@@ -1,1 +1,40 @@
-
+body {
+  border-radius: 5px;
+  /* margin: 25px; */
+}
+.navbar-brand{
+  font-family: 'Staatliches', cursive;
+  font-size: 45px;
+  text-decoration: underline;
+}
+.nav-link{
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+}
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
+body{
+  background: url('https://media.giphy.com/media/KwZoSJlvep6Vy/giphy.gif') no-repeat center center fixed; 
+  background-size: cover;
+}
+.headers{
+  text-decoration: underline;
+  background-color: #054A91;
+  color: #DBE4EE;
+  padding: 0.3em;
+  text-align: center;
+  font-size: 45px; 
+  margin: 25px;
+  font-family: 'Unica One', cursive;
+}
+.container{
+  display: flex;
+  justify-content:center;
+}
