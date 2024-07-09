@@ -1,1 +1,53 @@
+body {
+  border-radius: 5px;
+  /* margin: 20px; */
+  background-image: url("https://cdn131.picsart.com/327771404108201.jpg?type=webp&to=min&r=640");
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+}
+.jumbotron{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.navbar-brand{
+  font-family: 'Staatliches', cursive;
+  font-size: 45px;
+  text-decoration: underline;
+  
+}
+.nav-link{
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+}
 
+.card{
+  margin: 25px;
+}
+
+.display-4{
+  font-family: 'Patua One', cursive;
+  font-size: 65px;
+  text-decoration: underline;
+}
+
+.jumbotron {
+  background-image: url("https://lh3.googleusercontent.com/proxy/CLuFv1xS35JVHqXN5crsRebvOhfs4iBlfYCAB7qUGzVNWjjZxqRS5-JcyHNO_SgYm7qaP4THdELMl1cBGfX7Y6VJGHwBv9w9L78fwnuU_0LEi7sewJm9vpcqsUxKqPuFy8xnPI9ArJaQ-LoaKJTV0g");
+  background-size: 100% 400%;
+  /* background-repeat: no-repeat; */
+  /* background-color: rgb(233, 164, 165); */
+}
+
+.lead{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 29px;
+}
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
